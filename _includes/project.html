@@ -1,0 +1,10 @@
+
+{% for project in section.project %}
+  <div class="my-5">
+    <h3>{{ project.name }}</h3>
+    <p>{{ project.text }}</p>
+    <a href="{{ project.url }}">
+      <img src="{{ project.image }}" alt="{{ project.alt }}" class="img-fluid my-1" />
+    </a>
+  </div>
+{% endfor %}

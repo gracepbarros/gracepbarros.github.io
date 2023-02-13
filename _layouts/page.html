@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% for section in page.sections %}
+  <section class="{{ section.background_style }} page-padding" id="{{ section.section_id }}">
+      <h1>{{ section.title }}</h1>
+      <p>{{ section.text }}</p>
+      {% include {{ section.type }} section=section site=site page=page %}
+  </section>
+{% endfor %}

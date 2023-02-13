@@ -1,0 +1,204 @@
+// Lux 5.1.0
+// Bootswatch
+
+// Colour
+$dark-colour: #cfcfcf;
+$light-colour:#f5f5f5;
+$accent-light:#9db1ab;
+
+.bg-accent-light{
+  background-color: $dark-colour;
+}
+
+.bg-light-colour {
+  background-color: $light-colour;
+}
+
+.bg-dark-colour {
+  background-color: $accent-light;
+}
+
+// Variables
+
+$web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap" !default;
+@if $web-font-path {
+  @import url($web-font-path);
+}
+
+// Navbar
+
+.navbar {
+  font-size: $font-size-sm;
+  text-transform: uppercase;
+  font-weight: 600;
+
+  &-nav {
+    .nav-link {
+      padding-top: .715rem;
+      padding-bottom: .715rem;
+    }
+  }
+
+  &-brand {
+    margin-right: 2rem;
+  }
+}
+
+.nav-item {
+  margin-right: 2rem;
+}
+
+// Navs
+
+.dropdown-menu {
+  font-size: $font-size-sm;
+  text-transform: none;
+}
+
+// banner
+.page-banner {
+  padding: 10rem 0;
+  text-align: end;
+  background-image: url("../assets/img/banner.jpg");
+  background-size: cover;
+}
+
+.text-typing {
+  font-size:2.0rem;
+  font-family:monospace;
+}
+
+.text-typing p {
+  margin: 0;
+  white-space:nowrap;
+  overflow:hidden;
+  animation:typing 4s steps(20,start) backwards,
+            blink 1s infinite;
+}
+
+.job-title {
+  margin:0px;
+  white-space:nowrap;
+  overflow:hidden;
+  animation:appear 4s;
+  animation-timing-function: steps(1, jump-end);
+}
+
+@keyframes typing {
+  0% { width:0% }
+  100% { width:100% }
+}
+
+@keyframes blink {
+  0%,100% {
+    border-right:2px solid transparent;
+  }
+  50% {
+    border-right:2px solid $dark-colour;
+  }
+}
+
+@keyframes appear {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+// typography
+
+body {
+  font-weight: 200;
+  letter-spacing: 1px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.text-light-colour {
+  color: $light-colour !important;
+}
+
+// Buttons
+
+.btn {
+  font-size: $font-size-sm;
+  text-transform: uppercase;
+
+  &-sm {
+    font-size: 10px;
+  }
+
+  &-warning {
+    &,
+    &:hover,
+    &:not([disabled]):not(.disabled):active,
+    &:focus {
+      color: $white;
+    }
+  }
+}
+
+.btn-outline-secondary {
+  border-color: $gray-600;
+  color: $gray-600;
+
+  &:not([disabled]):not(.disabled):hover,
+  &:not([disabled]):not(.disabled):focus,
+  &:not([disabled]):not(.disabled):active {
+    background-color: $gray-400;
+    border-color: $gray-400;
+    color: $white;
+  }
+
+  &:not([disabled]):not(.disabled):focus {
+    box-shadow: 0 0 0 .2rem rgba($gray-400, .5);
+  }
+}
+
+[class*="btn-outline-"] {
+  border-width: 2px;
+}
+
+.border-secondary {
+  border: 1px solid $gray-400 !important;
+}
+
+// Tables
+
+th {
+  font-size: $font-size-sm;
+  text-transform: uppercase;
+}
+
+.table {
+  th,
+  td {
+    padding: 1.5rem;
+  }
+
+  &-sm {
+    th,
+    td {
+      padding: .75rem;
+    }
+  }
+}
+
+// spacing
+
+.page-padding{
+  padding: 5rem 25rem;
+}
+
+@media only screen and (max-width: 1200px) {
+  .page-padding{
+    padding: 2rem;
+  }
+  
+}

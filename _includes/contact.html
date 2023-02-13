@@ -1,0 +1,7 @@
+{% for contact in section.contact %}
+  <a href="{{ contact.url }}">
+    <img width="2%" height="2%" src="{{ contact.image }}" alt="{{ contact.alt }}" class="my-1" />
+      {{ contact.text }}
+  </a>
+  <br>
+{% endfor %}
