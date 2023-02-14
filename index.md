@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Rebeca Pastl
+title: Grace Barros
 
 sections:
   - type: welcome.html
     section_id: welcome
     background_style: bg-light-colour
     title: Welcome
-    text: Hello, my name is Rebeca and I've graduated in Sep/2022 in Computer Studies at Langara College. Take a look at my <a href="https://github.com/rebecapastl"> github</a> and see some of my repos.
+    text: Hello, my name is Rebeca and I've graduated in Sep/2022 in Computer Studies at Langara College. Take a look at my <a href="https://github.com/gracepbarros"> github</a> and see some of my repos.
     url: welcome.html
   - type: project.html
     section_id: projects
@@ -46,8 +46,8 @@ sections:
         image: assets/img/linkedin.svg
         url: 'https://www.linkedin.com/in/rebeca-pastl/'
         alt: linkedin
-      - text: rebeca.pastl@hotmail.com
+      - text: gracepbarros@gmail.com
         image: assets/img/envelope-solid.svg
-        url: 'mailto:rebeca.pastl@hotmail.com'
+        url: 'mailto:gracepbarros@gmail.com'
         alt: email
 ---

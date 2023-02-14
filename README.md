@@ -1,6 +1,6 @@
-Hello, my name is Rebeca and I've graduated in Sep/2022 in Computer Studies at Langara College.
+Hello, my name is Grace and I will graduate in Computer Studies at Langara College in 2024.
 
-Take a look at my [github](https://github.com/rebecapastl) and see some of my repos.
+Take a look at my [github](https://github.com/gracepbarros) and see some of my repos.
 
 <p>&nbsp;</p>
 
@@ -30,6 +30,6 @@ Fill and print an information sheet about a fictional character.
 
 # CONTACT
 
-<img src="/assets/img/github.svg"  width="2%" height="2%"> [https://github.com/rebecapastl](https://github.com/rebecapastl)\
+<img src="/assets/img/github.svg"  width="2%" height="2%"> [https://github.com/gracepbarros](https://github.com/gracepbarros)\
 <img src="/assets/img/linkedin.svg"  width="2%" height="2%"> [https://www.linkedin.com/in/rebeca-pastl/](https://www.linkedin.com/in/rebeca-pastl/)\
-<img src="/assets/img/envelope-solid.svg"  width="2%" height="2%"> <a href="mailto:rebeca.pastl@hotmail.com">rebeca.pastl@hotmail.com</a>
+<img src="/assets/img/envelope-solid.svg"  width="2%" height="2%"> <a href="mailto:gracepbarros@gmail.com">gracepbarros@gmail.com</a>
