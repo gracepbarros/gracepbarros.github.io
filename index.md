@@ -7,7 +7,7 @@ sections:
     section_id: welcome
     background_style: bg-light-colour
     title: Welcome
-    text: Hello, my name is Rebeca and I've graduated in Sep/2022 in Computer Studies at Langara College. Take a look at my <a href="https://github.com/gracepbarros"> github</a> and see some of my repos.
+    text: I'm a Computer Studies student at Langara College and you can count on me to be the most proactive, communicative and dedicate person you know. I don't accept less than my best in every activity I do. Take a look at my <a href="https://github.com/gracepbarros"> github</a> and see some of my repos.
     url: welcome.html
   - type: project.html
     section_id: projects
@@ -38,13 +38,13 @@ sections:
     title: Contact
     url: contact.html
     contact:
-      - text: https://github.com/rebecapastl
+      - text: https://github.com/gracepbarros
         image: assets/img/github.svg
-        url: 'https://github.com/rebecapastl'
+        url: 'https://github.com/gracepbarros'
         alt: github
-      - text: https://www.linkedin.com/in/rebeca-pastl/
+      - text: https://www.linkedin.com/in/grace-barros/
         image: assets/img/linkedin.svg
-        url: 'https://www.linkedin.com/in/rebeca-pastl/'
+        url: 'https://www.linkedin.com/in/grace-barros/'
         alt: linkedin
       - text: gracepbarros@gmail.com
         image: assets/img/envelope-solid.svg
