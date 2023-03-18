@@ -13,7 +13,7 @@ sections:
     section_id: projects
     background_style: bg-dark-colour
     title: Projects
-    text: Here are some of my projects.
+    text: Here are some of my projects. The project picture will address you to its website.
     url: project.html
     project:
       - name: Frogger
