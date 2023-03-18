@@ -16,21 +16,16 @@ sections:
     text: Here are some of my projects.
     url: project.html
     project:
-      - name: MFLIX
-        text: A classic movies database
-        image: assets/img/mflix.png
-        url: 'https://mflix.cyclic.app/'
-        alt: mflix
-      - name: palpite Box
-        text: A site where customers can rate your small business
-        image: assets/img/palpite-box.png
-        url: 'https://palpite-box-rebecapastl.vercel.app/'
-        alt: palpite box opinion box
-      - name: Character Sheet
-        text: Fill and print an information sheet about a fictional character.
-        image: assets/img/character-sheet.png
-        url: 'https://character-sheet.cyclic.app/'
-        alt: character sheet
+      - name: Frogger
+        text: A re-criation of 90's Frogger game.
+        image: assets/img/frogger.png
+        url: 'https://gracepbarros.github.io/frogger/'
+        alt: Print of End Game screen
+      - name: Tile Puzzle
+        text: A drawing website where you can paint pre-set puzzles and download it.
+        image: assets/img/greyscale.png
+        url: ''
+        alt: PLEASE UPDATE WITH IMAGE AND LINK
   - type: contact.html
     section_id: contact
     background_style: bg-accent-light
