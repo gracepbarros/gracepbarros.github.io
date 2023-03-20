@@ -23,7 +23,9 @@ sections:
         alt: Print of End Game screen
       - name: Web OS System (ongoing)
         text: Team development of a system for Resolve Locações in Brazil, featuring financial subsystems and a generator of service orders. The objectives are to create a system that reads the company's bank files, generates custom reports, and balances finances. To develop a generator of service orders with customized subsections for trucks, drivers, values, and a report generator. To implement a user and password field for registered user access and user categories with permissions and restrictions. Developed with JavaScript, HTML and CSS. Database management with AWS and using SQL. The result is a user-friendly interface, that offers security and efficiency. Clients are satisfied with the development and system functions.
+        image: assets/img/webosLogin.png
         image: assets/img/webosFinanceiro.png
+        image: assets/img/webosUser.png
         url: 
         alt: Financial Page of WebOs system
       - name: Tile Puzzle
@@ -31,32 +33,9 @@ sections:
         image: assets/img/greyscale.png
         url: ''
         alt: PLEASE UPDATE WITH IMAGE AND LINK
-  - type: contact.html
-    section_id: contact
-    background_style: bg-accent-light
-    text: Thanks for contacting!
-    title: Contact
-    url: contact.html
-    contact:
-      - text: https://github.com/gracepbarros
-        image: assets/img/github.svg
-        url: 'https://github.com/gracepbarros'
-        alt: github
-      - text: https://www.linkedin.com/in/grace-barros/
-        image: assets/img/linkedin.svg
-        url: 'https://www.linkedin.com/in/grace-barros/'
-        alt: linkedin
-      - text: gracepbarros@gmail.com
-        image: assets/img/envelope-solid.svg
-        url: 'mailto:gracepbarros@gmail.com'
-        alt: email
-      - text: Call me
-        image: assets/img/phone.svg
-        url: 'tell:+16047166379'
-        alt: phone
   - type: resume.html
     section_id: resume
-    background_style: bg-dark-colour
+    background_style: bg-accent-light
     title: Resume
     text: 2475 W 7th Ave Vancouver, BC V6K 1Y6
     url: resume.html
@@ -78,4 +57,27 @@ sections:
         label: Resolve Locações e Serviços Ltda, Rio de Janeiro, RJ – Brazil
         dates: 04.2018 – 02.2022
         description: <li>Monitored company’s bank accounts to feed and update commercial integrated system.</li><li>Developed strong relationships with stakeholders such as banks, investors, and regulatory agencies, to improve the company's access to funding and support.</li><li>Verified financial data and ensured its accuracy, improving the quality and accuracy of financial reports</li><li>Managed inventory shops that were requested by the Inventory Manager, ensuring that there were the financial means for the mechanical team supplies.</li>
+ - type: contact.html
+    section_id: contact
+    background_style: bg-dark-colour
+    text: Thanks for contacting!
+    title: Contact
+    url: contact.html
+    contact:
+      - text: Click here to call me
+        image: assets/img/phone.svg
+        url: 'tel:+16047166379'
+        alt: phone
+      - text: https://github.com/gracepbarros
+        image: assets/img/github.svg
+        url: 'https://github.com/gracepbarros'
+        alt: github
+      - text: https://www.linkedin.com/in/grace-barros/
+        image: assets/img/linkedin.svg
+        url: 'https://www.linkedin.com/in/grace-barros/'
+        alt: linkedin
+      - text: gracepbarros@gmail.com
+        image: assets/img/envelope-solid.svg
+        url: 'mailto:gracepbarros@gmail.com'
+        alt: email
 ---
