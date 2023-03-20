@@ -60,21 +60,22 @@ sections:
     title: Resume
     text: 2475 W 7th Ave Vancouver, BC V6K 1Y6
     url: resume.html
-    - name: TECHNICAL SKILLS
-      label:
-      dates:
-      description: <li>Proficient in programming languages such as Python, Java, and TypeScript with a strong understanding of object-oriented programming principles.</li><li>Familiarity with development life cycle including analysis, development, performance management, systems testing, deployment and post-deployment support.</li><li>Debugged programs coded on environments like IntelliJ, and VS Code for code correction and performance improvement, preserving the application functionality.</li><li>Understanding of software testing methodologies, including unit testing, integration testing, and automated testing frameworks such as Cucumber</li><li>Knowledge of Git as a version control system, and experience with collaborative development using GitHub and Trello.</li><li>Experience with Agile methodologies, including Scrum and Kanban, and the ability to work effectively in a team-based environment.</li>
-    - name: TRANSFERABLE SKILLS
-      label:
-      dates:
-      description: <li>Ability to present information effectively during presentations, demos and team meetings.</li><li>Experienced in scoping, planning, and executing projects within deadlines, hence developing strong project management skills.</li><li>Demonstrated ability to collaborate with cross-functional teams, including designers, product managers, and engineers, to deliver high-quality software products.</li><li>Developed interpersonal communications skills with Toastmasters International.</li><li>Experienced with job tasks that require multi-tasking and working under pressure.</li><li>•	Experienced with customer service, therefore developed listening and problem-solving skills.</li>
+    resume:
+      - name: TECHNICAL SKILLS
+        label:
+        dates:
+        description: <li>Proficient in programming languages such as Python, Java, and TypeScript with a strong understanding of object-oriented programming principles.</li><li>Familiarity with development life cycle including analysis, development, performance management, systems testing, deployment and post-deployment support.</li><li>Debugged programs coded on environments like IntelliJ, and VS Code for code correction and performance improvement, preserving the application functionality.</li><li>Understanding of software testing methodologies, including unit testing, integration testing, and automated testing frameworks such as Cucumber</li><li>Knowledge of Git as a version control system, and experience with collaborative development using GitHub and Trello.</li><li>Experience with Agile methodologies, including Scrum and Kanban, and the ability to work effectively in a team-based environment.</li>
+      - name: TRANSFERABLE SKILLS
+        label:
+        dates:
+        description: <li>Ability to present information effectively during presentations, demos and team meetings.</li><li>Experienced in scoping, planning, and executing projects within deadlines, hence developing strong project management skills.</li><li>Demonstrated ability to collaborate with cross-functional teams, including designers, product managers, and engineers, to deliver high-quality software products.</li><li>Developed interpersonal communications skills with Toastmasters International.</li><li>Experienced with job tasks that require multi-tasking and working under pressure.</li><li>•	Experienced with customer service, therefore developed listening and problem-solving skills.</li>
       ##Professional Experience
-    - name: Solution Shop Associate
-      label: Staples, Vancouver, BC 
-      dates: 06.2022 - 11.2022
-      description: <li>Performed multiple tasks at the Solution Shop counter such as greeting customers, taking orders, executing online orders, organizing materials, processing payments, organizing packages and cleaning the self-service area, while delivering fast and friendly service, to ensure customer satisfaction.</li><li>Answered customer phone calls and provided store information, shared my printing knowledge and answered questions about paper or printing or order inquiries.</li><li>Operated multiple machines such as a professional camera for a passport photo, passport photo machine, Canon poster printer, Xerox C-60 and D-95 printers, Cashier system, binding machine, folding machine, laser cutting machine, laminations machine, and photo cutting machine.</li><li>Executed online orders according to specific requests such as type of paper, double/single-sided, adjustments or layouts, and specific finalizations.</li>
-    - name: Finance Manager
-      label: Resolve Locações e Serviços Ltda, Rio de Janeiro, RJ – Brazil
-      dates: 04.2018 – 02.2022
-      description: <li>Monitored company’s bank accounts to feed and update commercial integrated system.</li><li>Developed strong relationships with stakeholders such as banks, investors, and regulatory agencies, to improve the company's access to funding and support.</li><li>Verified financial data and ensured its accuracy, improving the quality and accuracy of financial reports</li><li>Managed inventory shops that were requested by the Inventory Manager, ensuring that there were the financial means for the mechanical team supplies.</li>
+      - name: Solution Shop Associate
+        label: Staples, Vancouver, BC 
+        dates: 06.2022 - 11.2022
+        description: <li>Performed multiple tasks at the Solution Shop counter such as greeting customers, taking orders, executing online orders, organizing materials, processing payments, organizing packages and cleaning the self-service area, while delivering fast and friendly service, to ensure customer satisfaction.</li><li>Answered customer phone calls and provided store information, shared my printing knowledge and answered questions about paper or printing or order inquiries.</li><li>Operated multiple machines such as a professional camera for a passport photo, passport photo machine, Canon poster printer, Xerox C-60 and D-95 printers, Cashier system, binding machine, folding machine, laser cutting machine, laminations machine, and photo cutting machine.</li><li>Executed online orders according to specific requests such as type of paper, double/single-sided, adjustments or layouts, and specific finalizations.</li>
+      - name: Finance Manager
+        label: Resolve Locações e Serviços Ltda, Rio de Janeiro, RJ – Brazil
+        dates: 04.2018 – 02.2022
+        description: <li>Monitored company’s bank accounts to feed and update commercial integrated system.</li><li>Developed strong relationships with stakeholders such as banks, investors, and regulatory agencies, to improve the company's access to funding and support.</li><li>Verified financial data and ensured its accuracy, improving the quality and accuracy of financial reports</li><li>Managed inventory shops that were requested by the Inventory Manager, ensuring that there were the financial means for the mechanical team supplies.</li>
 ---
