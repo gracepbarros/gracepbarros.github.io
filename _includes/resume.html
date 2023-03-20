@@ -1,0 +1,7 @@
+{% for resume in section.resume %}
+  <div class="my-5">
+    <h3>{{ resume.name }}</h3>
+    <h5>{{ resume.label /t/t/t/t resume.dates }}</h5>
+    <ul>{{ resume.description }}</ul>
+  </div>
+{% endfor %}
