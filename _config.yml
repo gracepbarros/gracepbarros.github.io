@@ -16,13 +16,13 @@
 title: Grace Barros
 email: "gracepbarros@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Computer studies student based in Vancouver, BC. Graduation in 2024 at Langara College. Passionate about software development and communication.
+  Computer studies student based in Vancouver, BC. Graduation in 2024 at Langara College.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  gracepbarros
 
-repository: "gracepbarros/"
+repository: "gracepbarros/github.io"
 
 # Build settings
 plugins:

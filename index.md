@@ -7,7 +7,7 @@ sections:
     section_id: welcome
     background_style: bg-light-colour
     title: Welcome
-    text: I'm a Computer Studies student at Langara College and you can count on me to be the most proactive, communicative and dedicate person you know. I don't accept less than my best in every activity I do. Take a look at my <a href="https://github.com/gracepbarros"> github</a> and see some of my repos. This website is under construction.
+    text: I'm a Computer Studies student at Langara College and you can count on me to be the most proactive, communicative and dedicate person you know. I don't accept less than my best in every activity I do. Take a look at my <a href="https://github.com/gracepbarros"> github</a> and see some of my repos. 
     url: welcome.html
 
   - type: skills.html
@@ -36,7 +36,7 @@ sections:
     section_id: projects
     background_style:  bg-accent-light
     title: Projects
-    text: Here are some of my projects. The project picture will address you to its website, if avaiable.
+    text: Here are some of my projects. The project picture will address you to its website, if avaiable. Some projects are under construction.
     url: project.html
     project:
       - name: Frogger

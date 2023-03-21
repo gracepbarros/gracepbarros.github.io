@@ -60,7 +60,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   padding: 10rem 0;
   text-align: end;
   background-image: url("../assets/img/lifecode.jpg");
-  background-size: cover;
+  background-size:contain;
 }
 
 .text-typing {
@@ -75,14 +75,6 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   overflow:hidden;
   animation:typing 4s steps(20,start) backwards,
             blink 1s infinite;
-}
-
-.job-title {
-  margin:0px;
-  white-space:nowrap;
-  overflow:hidden;
-  animation:appear 4s;
-  animation-timing-function: steps(1, jump-end);
 }
 
 @keyframes typing {
