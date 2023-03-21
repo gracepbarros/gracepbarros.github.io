@@ -77,7 +77,7 @@ sections:
         label: Rio de Janeiro Federal University, Rio de Janeiro, RJ – Brazil
         dates: 07.2018 – 12.2019
         description: <li>Developed my own skills in Python programming and gained a deeper understanding of the language and its applications and gained valuable technical skills that serve me well in my career by debugging students’ codes.</li><li>Provided personalized support and encouragement helped students feel confident in their abilities and motivated to continue learning.</li><li>Helped students to identify areas for improvement and provided guidance on how to address these challenges, leading to improved performance through my evaluations of students' assignments.</li>
- - type: contact.html
+  - type: contact.html
     section_id: contact
     background_style: bg-dark-colour
     text: Thanks for contacting!
