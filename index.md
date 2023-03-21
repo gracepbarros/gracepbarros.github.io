@@ -9,7 +9,6 @@ sections:
     title: Welcome
     text: I'm a Computer Studies student at Langara College and you can count on me to be the most proactive, communicative and dedicate person you know. I don't accept less than my best in every activity I do. Take a look at my <a href="https://github.com/gracepbarros"> github</a> and see some of my repos. 
     url: welcome.html
-
   - type: skills.html
     section_id: skills
     background_style: bg-dark-colour
@@ -31,15 +30,14 @@ sections:
         topic4: Developed interpersonal communications skills with Toastmasters International.</li><li>Experienced with job tasks that require multi-tasking and working under pressure.
         topic5: Experienced with customer service, therefore developed listening and problem-solving skills.
         topic6: 
-
   - type: project.html
     section_id: projects
-    background_style:  bg-accent-light
+    background_style: bg-accent-light
     title: Projects
     text: Here are some of my projects. The project picture will address you to its website, if avaiable. Some projects are under construction.
     url: project.html
     project:
-      - name: Frogger
+      - name: <a href="https://github.com/gracepbarros/frogger.git">Frogger</a>
         text: A re-criation of 90's Frogger game.
         image: assets/img/frogger.png
         url: 'https://gracepbarros.github.io/frogger/'
@@ -50,17 +48,16 @@ sections:
         image: assets/img/webosUser.png
         url: '404.html'
         alt: Financial and User Page of WebOs system
-      - name: Tile Puzzle (ongoing)
+      - name: <a href="https://github.com/gracepbarros/TilePuzzle.git"> Tile Puzzle (ongoing)</a>
         text: A drawing website where you can paint pre-set puzzles and download it.
         image: assets/img/greyscale.png
         url: '404.html'
         alt: PLEASE UPDATE WITH IMAGE AND LINK
-      - name: Mastermind Game
+      - name: <a href="https://github.com/gracepbarros/MastermindGame.git"> Mastermind Game</a>
         text: A game that generates a secret number upon starting and provides players with a set number of attempts to guess it.<br>Developed using Java programming language. It generates a secret number and provides the player with a set number of attempts to guess the correct number. <br>Throughout the game, players receive helpful hints and feedback to help them guess the correct number. 
         image: assets/img/mastermind.png
         url: '404.html'
         alt: print of runnnig mastermind game at IntelliJ
-
   - type: resume.html
     section_id: resume
     background_style: bg-light-colour
@@ -80,7 +77,6 @@ sections:
         label: Rio de Janeiro Federal University, Rio de Janeiro, RJ – Brazil
         dates: 07.2018 – 12.2019
         description: <li>Developed my own skills in Python programming and gained a deeper understanding of the language and its applications and gained valuable technical skills that serve me well in my career by debugging students’ codes.</li><li>Provided personalized support and encouragement helped students feel confident in their abilities and motivated to continue learning.</li><li>Helped students to identify areas for improvement and provided guidance on how to address these challenges, leading to improved performance through my evaluations of students' assignments.</li>
-
  - type: contact.html
     section_id: contact
     background_style: bg-dark-colour
