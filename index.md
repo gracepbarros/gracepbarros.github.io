@@ -42,16 +42,16 @@ sections:
         image: assets/img/frogger.png
         url: 'https://gracepbarros.github.io/frogger/'
         alt: Print of End Game screen
-      - name: Web OS System (ongoing)
+      - name: <a href="http://ec2-18-228-197-106.sa-east-1.compute.amazonaws.com/Login.html"> Web OS System (ongoing)</a>
         text: Team development of a system for Resolve Locações in Brazil, featuring financial subsystems and a generator of service orders. The objectives are to create a system that reads the company's bank files, generates custom reports, and balances finances. To develop a generator of service orders with customized subsections for trucks, drivers, values, and a report generator. To implement a user and password field for registered user access and user categories with permissions and restrictions. Developed with JavaScript, HTML and CSS. Database management with AWS and using SQL. The result is a user-friendly interface, that offers security and efficiency. Clients are satisfied with the development and system functions.
         image: assets/img/webosFinanceiro.png
         image: assets/img/webosUser.png
-        url: '404.html'
+        url: 'http://ec2-18-228-197-106.sa-east-1.compute.amazonaws.com/Login.html'
         alt: Financial and User Page of WebOs system
-      - name: <a href="https://github.com/gracepbarros/TilePuzzle.git"> Tile Puzzle (ongoing)</a>
+      - name: <a href="https://gracepbarros.github.io/TilePuzzle/"> Tile Puzzle (ongoing)</a>
         text: A drawing website where you can paint pre-set puzzles and download it.
         image: assets/img/greyscale.png
-        url: '404.html'
+        url: 'https://gracepbarros.github.io/TilePuzzle/'
         alt: PLEASE UPDATE WITH IMAGE AND LINK
       - name: <a href="https://github.com/gracepbarros/MastermindGame.git"> Mastermind Game</a>
         text: A game that generates a secret number upon starting and provides players with a set number of attempts to guess it.<br>Developed using Java programming language. It generates a secret number and provides the player with a set number of attempts to guess the correct number. <br>Throughout the game, players receive helpful hints and feedback to help them guess the correct number. 
@@ -62,7 +62,7 @@ sections:
     section_id: resume
     background_style: bg-light-colour
     title: Professional Experience
-    text: 2475 W 7th Ave Vancouver, BC V6K 1Y6
+    text: Vancouver, BC - V6K 1Y6
     url: resume.html
     resume:
       - name: Solution Shop Associate
