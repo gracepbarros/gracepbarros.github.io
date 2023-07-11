@@ -15,20 +15,34 @@ Here are some of my projects.
 <p>&nbsp;</p>
 
 ### Frogger
-A re-criation of 90's Frogger game.
+A re-criation of 90's Frogger game.  
 [![Frogger](/assets/img/frogger.png)](https://gracepbarros.github.io/frogger/)
 
 <p>&nbsp;</p>
 
 ### Web OS Systemm (ongoing)
-System for the client Resolve Locações (Brazil), featuring financial subsystems and a generator of service orders.
+System for the client Resolve Locações (Brazil), featuring financial subsystems and a generator of service orders.  
 [![Web OS System](assets/img/webosFinanceiro.png)](http://ec2-18-228-197-106.sa-east-1.compute.amazonaws.com/Login.html)
 
 <p>&nbsp;</p>
 
 ### Mastermind
-A game developed using Java that generates a secret number upon starting. Then, provides players with a set number of attempts to guess it. Throughout the game, players receive helpful hints and feedback to help them guess the correct number. There is no front-end system for that project yet.
-[![Frogger](/assets/img/frogger.png)](https://gracepbarros.github.io/frogger/)
+A game developed using Java that generates a secret number upon starting. Then, provides players with a set number of attempts to guess it. Throughout the game, players receive helpful hints and feedback to help them guess the correct number. There is no front-end system for that project yet.  
+[![Frogger](/assets/img/mastermind.png)](https://github.com/gracepbarros/MastermindGame.git)
+
+<p>&nbsp;</p>
+
+### Blue Bird
+An animation of a Blue Bird in a frame, developed using pure JavaScript during my first semester at college. The bird moves randomly in one direction for a few seconds before changing direction randomly.
+[![Blue Bird](/assets/img/bird.png)](https://gracepbarros.github.io/BlueBird/)
+
+<p>&nbsp;</p>
+
+### Graceful Crochet (ongoing)
+My own shopping website. Project to demonstrate my abilities with front-end tools. It also is useful for sell my own pieces of crochet, which is my hobby. 
+[![Tile Puzzle](/assets/img/CrochetPage.png)](https://github.com/gracepbarros/gracefulcrochet)
+
+<p>&nbsp;</p>
 
 ### Tile Puzzle (ongoing)
 A drawing website where you can paint pre-set puzzles and download it.
