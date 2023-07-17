@@ -29,7 +29,6 @@ sections:
       - name: <a href="http://ec2-18-228-197-106.sa-east-1.compute.amazonaws.com/Login.html"> Web OS System (ongoing)</a>
         text: Team development of a system for Resolve Locações in Brazil, featuring financial subsystems and a generator of service orders. The objectives are to create a system that reads the company's bank files, generates custom reports, and balances finances. To develop a generator of service orders with customized subsections for trucks, drivers, values, and a report generator. To implement a user and password field for registered user access and user categories with permissions and restrictions. Developed with JavaScript, HTML and CSS. Database management with AWS and using SQL. The result is a user-friendly interface, that offers security and efficiency. Clients are satisfied with the development and system functions.
         image: assets/img/webosFinanceiro.png
-        image: assets/img/webosUser.png
         url: 'http://ec2-18-228-197-106.sa-east-1.compute.amazonaws.com/Login.html'
         alt: Financial and User Page of WebOs system
       - name: <a href="https://gracepbarros.github.io/BlueBird/"> Blue Bird </a>
@@ -37,7 +36,7 @@ sections:
         image: assets/img/bird.png
         url: 'https://gracepbarros.github.io/BlueBird/'
         alt: Blue bird static draw
-        - name: <a href="https://github.com/gracepbarros/gracefulcrochet/"> Graceful Crochet </a>
+      - name: <a href="https://github.com/gracepbarros/gracefulcrochet/"> Graceful Crochet (ongoing)</a>
         text: My own shopping website. Project to demonstrate my abilities with front-end tools. It also is useful for sell my own pieces of crochet, which is my hobby.
         image: assets/img/CrochetPage.png
         url: 'https://github.com/gracepbarros/gracefulcrochet/'
